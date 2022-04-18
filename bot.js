@@ -1,6 +1,6 @@
 const { Telegraf } = require('telegraf');
 
-const TOKEN = `5322032877:AAFefUnUWQ2tSI5NZ92M3vU_eoKeA3NGav8`;
+const TOKEN = ``;
 
 const bot = new Telegraf(TOKEN);
 // eslint-disable-next-line no-console
